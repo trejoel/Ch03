@@ -14,5 +14,5 @@ void factorial(int x){
       prod=prod*i;
    }
 
-   printf("El valor del factorial de %d es= %d",x,prod);
+   printf("El factorial de %d es= %d",x,prod);
 }
